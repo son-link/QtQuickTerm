@@ -1,0 +1,7 @@
+[qtquickterm]
+colorscheme = Linux
+font = Clean
+fontsize = 12
+width = 600
+height = 300
+

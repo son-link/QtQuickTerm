@@ -1,0 +1,6 @@
+[qtquickterm]
+colorscheme = Linux
+font = DejaVu Sans Mono
+fontsize = 10
+width = 600
+height = 300

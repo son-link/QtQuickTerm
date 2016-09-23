@@ -19,28 +19,83 @@
         <source>Proyect under the GNU/GPL 3 license</source>
         <translation>Proyecto bajo licencia GNU/GPL 3</translation>
     </message>
+    <message>
+        <location filename="config.ui" line="14"/>
+        <source>Config QtQuickTerm</source>
+        <translation>Configurar QtQuickTerm</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="51"/>
+        <source>Font:</source>
+        <translation>Fuente:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="77"/>
+        <source>Color scheme:</source>
+        <translation>Esquema de color:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="150"/>
+        <source>Font size:</source>
+        <translation>Tamaño fuente:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="175"/>
+        <source>Preview:</source>
+        <translation>Vista previa:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="185"/>
+        <source>Preview label</source>
+        <translation type="obsolete">Texto ejemplo</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="213"/>
+        <source>Width:</source>
+        <translation>Ancho:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="226"/>
+        <source>Height:</source>
+        <translation>Alto:</translation>
+    </message>
+    <message>
+        <location filename="config.ui" line="188"/>
+        <source>Sample text</source>
+        <translation>Texto de ejemplo</translation>
+    </message>
 </context>
 <context>
     <name>QtQuickTerm</name>
     <message>
-        <location filename="qtquickterm.py" line="49"/>
+        <location filename="qtquickterm.py" line="104"/>
         <source>About</source>
         <translation>Sobre</translation>
     </message>
     <message>
-        <location filename="qtquickterm.py" line="51"/>
+        <location filename="qtquickterm.py" line="106"/>
         <source>Exit</source>
         <translation>Salir</translation>
     </message>
     <message>
-        <location filename="qtquickterm.py" line="61"/>
+        <location filename="qtquickterm.py" line="117"/>
         <source>Copy</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="qtquickterm.py" line="65"/>
+        <location filename="qtquickterm.py" line="121"/>
         <source>Paste</source>
         <translation>Pegar</translation>
+    </message>
+    <message>
+        <location filename="qtquickterm.py" line="102"/>
+        <source>Configure</source>
+        <translation>Configurar</translation>
+    </message>
+    <message>
+        <location filename="qtquickterm.py" line="125"/>
+        <source>Clear</source>
+        <translation>Limpiar</translation>
     </message>
 </context>
 </TS>

@@ -28,6 +28,9 @@
   <property name="windowTitle">
    <string notr="true">QtQuickTerm</string>
   </property>
+  <property name="windowIcon">
+   <iconset theme="utilities-terminal-symbolic"/>
+  </property>
   <property name="toolTip">
    <string notr="true"/>
   </property>
@@ -55,7 +58,20 @@
         <string/>
        </property>
        <property name="icon">
-        <iconset theme="application-exit"/>
+        <iconset theme="application-exit">
+         <normaloff>.</normaloff>.</iconset>
+       </property>
+       <property name="iconSize">
+        <size>
+         <width>16</width>
+         <height>16</height>
+        </size>
+       </property>
+       <property name="autoDefault">
+        <bool>false</bool>
+       </property>
+       <property name="default">
+        <bool>false</bool>
        </property>
        <property name="flat">
         <bool>true</bool>
@@ -63,10 +79,7 @@
       </widget>
      </item>
      <item row="1" column="0">
-      <widget class="QWidget" name="widget_2" native="true">
-       <zorder>closeButton</zorder>
-       <zorder>closeButton</zorder>
-      </widget>
+      <widget class="QWidget" name="widget_2" native="true"/>
      </item>
     </layout>
    </item>

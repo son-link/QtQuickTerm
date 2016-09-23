@@ -13,4 +13,9 @@
 * Qterminal (required for compile qterwidget)
 * [pyqtconfig](https://github.com/mjirik/pyqtconfig) (required for compile qtermwidget PyQt lib)
 
+## How to use:
+* Click on the system tray icon for show/hide the terminal
+* Right click on the system tray icon for show the menu
+* Right click on the window show the menu
+
 Under GNU/GPL 3 license
